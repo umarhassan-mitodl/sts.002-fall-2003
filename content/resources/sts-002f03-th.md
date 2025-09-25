@@ -5,6 +5,8 @@ description: Galileo and Descartes. (Images courtesy of the Library of Congress 
 file: /courses/sts-002-toward-the-scientific-revolution-fall-2003/b716a3ad113dfbcee480b47b528e1dfc_sts-002f03-th.jpg
 file_size: 7627
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Clockwise from top left is a collage of Kepler, Copernicus, Newton, Galileo,
     Descartes, and Ptolemy. (Images courtesy of the [Library of Congress](http://www.loc.gov/rr/print/)
